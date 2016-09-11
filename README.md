@@ -1,2 +1,2 @@
 # WebGL-3D-Objects
-Learning WebGL
+Run random HTML file in browser.
